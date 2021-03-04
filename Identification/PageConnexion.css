@@ -1,0 +1,67 @@
+ body {
+    background: url('../images/font_inscription.jpeg') fixed;
+    background-size: cover;
+}
+
+.Ajout{
+    background: url('../images/AjoutPhoto.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.modifie{
+    background: url('../images/ModifiePhoto.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.mdp{
+    background: url('../images/mdp.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.resultat{
+    color: green;
+    font-weight: 300px;
+}
+.error{
+    color: red;
+    font-weight: 300px;
+}
+
+
+
+.titre{
+    text-decoration: none; 
+    text-align: center;
+    color: whitesmoke;
+}
+.titre:hover{
+    text-decoration: none;
+}
+form {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.3em;
+    background-color: #f2f2f2;
+    opacity: 0.8;
+    padding-bottom: 50px;
+}
+.ligne{
+    color: red;
+    opacity: 1.9;
+}
+form h2 { 
+    font-family: 'Time New Roman' , 'Georgia' , 'Open Sans' , sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 20px;
+    
+}

@@ -1,0 +1,41 @@
+.list-group li:hover{
+	background-color: #5283ae;
+}
+
+.list-group-item a{
+	color: black;
+}
+
+.list-group-item a:hover{
+	text-decoration: none;
+	color: black;
+}
+
+#active{
+	border-left: 5px solid #5b9bd1;
+}
+
+.badge{
+	background-color: gray;
+	color: black;
+}
+
+body{
+	background-image: url("../images/pro.jpg");
+	background-size: cover;
+}
+
+.titre{
+    text-decoration: none; 
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+.titre:hover{
+    text-decoration: none;
+}
+
+.card{
+	padding-top: 10px;
+	opacity: 0.8;
+}

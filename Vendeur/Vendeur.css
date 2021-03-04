@@ -1,0 +1,38 @@
+body {
+    background: url('font_inscription.jpeg') fixed;
+    background-size: cover;
+}
+.error{
+    color: red;
+    font-weight: 300px;
+}
+.Nametitre{
+    text-decoration: none; 
+    text-align: center;
+    color: whitesmoke;
+}
+.Nametitre:hover{
+    text-decoration: none;
+}
+
+form {
+    max-width: 530px;
+    padding: 15px;
+    margin: 0 auto;
+    border-radius: 0.3em;
+    background-color: #f2f2f2;
+    opacity: 0.8;
+    padding-bottom: 50px;
+}
+
+form h2 { 
+    font-family: 'Time New Roman' , 'Georgia' , 'Open Sans' , sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #000000;
+    margin-top: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-bottom: 20px;   
+}

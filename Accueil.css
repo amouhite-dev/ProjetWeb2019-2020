@@ -1,0 +1,54 @@
+.nav-link{
+	font-weight: bold;
+	color: #919598;
+}
+
+.nav-link:hover{
+	color: #ced2d5;
+
+}
+
+.page-footer{
+	background-color: #16212b;
+	color: white;
+	position: relative;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+}
+
+.text-uppercase {
+	margin-top: -50px;
+}
+.footer-copyright {
+	margin-top: -25px;
+}
+
+.footer-copyright a:hover{
+	text-decoration: none;
+}
+
+.list-unstyled{
+	margin-top: -30px;
+}
+
+.deep-purple {
+	background-color: gray;
+}
+
+
+.liens{
+	color: white;
+}
+
+.liens:hover{
+	text-decoration: none;
+	color: gray;
+}
+
+.fab{
+	color: white;
+	font-size: 20px;
+	float: right;
+}
